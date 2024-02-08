@@ -5,7 +5,7 @@ Short guide on how to set up your Synology NAS with DSM 7.2 (probably works with
 ## Set up DSM
 
 * Enable SSH via Control Panel > Terminal & SNMP > Terminal > Enable SSH service
-* Enable Docker via Apps > Container
+* Enable Docker via Package Center > Container Manager
 
 ## Enable kernel modules for RFXCOM
 
