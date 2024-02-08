@@ -25,7 +25,7 @@ Load the required kernel modules using the following commands:
 ```
 
 ## Install domoticz using docker
-Connect to the Synology via SSH and run the following command to install domoticz using docker.
+Connect to the Synology via SSH and create a folder for domoticz (here it is located at /volume1/docker/domoticz). Then, run the following command to install domoticz using docker (adapt to your needs).
 
 ```bash
 sudo docker run -d --name=domoticz \
